@@ -105,8 +105,7 @@ async def legend():
 
 **➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@UltraXchaT**
-**➥ Cʜᴀɴɴᴇʟ** `➪` **@UltraX_SupporT**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **https://t.me/kannada_HD_FilmsRequest**
 
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """
