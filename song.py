@@ -46,7 +46,7 @@ Mʏ Mᴀsᴛᴇʀ ʜᴀs ᴀssɪɢɴᴇᴅ ᴍᴇ ᴛʜᴇ ᴅᴜᴛʏ ᴛᴏ �
 
 ULTRA_BOT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if ULTRA_BOT_PIC is None:
-    ULTRA_PIC = "https://telegra.ph/file/91d427a6873d44ca21c78.jpg"
+    ULTRA_PIC = "https://telegra.ph/file/e3dc99cdf4a662ceeb2aa.png"
 else:
     ULTRA_PIC = ULTRA_BOT_PIC
 
@@ -93,8 +93,8 @@ async def Inline_legendx(event):
 @xbot.on(events.callbackquery.CallbackQuery(data=re.compile(b'noobda')))
 async def noobda (event):
   global back
-  Piro = [[Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/UltraXchaT"), Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/UltraXoT")]]
-  Piro += [[Button.url("Rᴇᴘᴏ", "https://github.com/ULTRA-OP/ULTRA-X")]]
+  Piro = [[Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Kannada_HD_FilmsRequest"), Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Kannada_Film_HD")]]
+  Piro += [[Button.url("Creator", "https://t.me/TheHacker90")]]
   Piro += back
   await event.edit("**Cʜᴇᴄᴋɪɴɢ ᴛʜᴇsᴇ ʟɪɴᴋs**", buttons=Piro)
 @xbot.on(events.callbackquery.CallbackQuery(data=re.compile(b'pm_back')))
